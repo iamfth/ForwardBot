@@ -1,15 +1,3 @@
-# Forward Bot
-
-<p align="center"><a href="#"><img src="https://telegra.ph/file/fa4d9d23a211f6bcf807b.jpg" width="250"></a></p> 
-<h1 align="center"><b>Forwarder Bot</b></h1>
-<h4 align="center">A Simple Forwarder Bot In Telethon TO Forward one Channel Contents to Another</h4>
-
-<h2 align="center">I will be soon releasing an update on this bot to make forwarding more easy. Stay Tuned and join [CodeXBotz](https://www.telegram.dog/codexbotz) for further updates</h2>
-
-
-# Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
 # Normal Way
 ```python3
 git clone https://github.com/rahulps1000/ForwardBot
